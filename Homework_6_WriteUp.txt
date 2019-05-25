@@ -1,0 +1,7 @@
+Python APIs Write-Up
+
+1) There was a very strong relationship between the max temperature and latitude. This was to be expected.
+
+2) The relationship between cloudiness and latitude was not apparent since there were a large amount of cities with either 100% cloudiness or 0% humidity at all latitudes.
+
+3) Wind speed was similar across latitudes with the occasional outlier with a higher wind speed. Again, not much of a relationship.
